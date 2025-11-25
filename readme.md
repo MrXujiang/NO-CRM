@@ -100,63 +100,35 @@ cd NO-CRM
 #### 2. 安装依赖
 
 ```bash
-# 安装根目录依赖
-npm install
-
 # 安装后端依赖
 cd backend
-npm install
-
-# 安装前端依赖
-cd ../frontend
 npm install
 ```
 
 #### 3. 初始化数据库
 
 ```bash
-cd backend
-npm run build
-npm run init:db
+# mac 或者linux系统
+./init-db.sh
 ```
 
-#### 4. 启动项目
-
-**开发模式**
-
-```bash
-# 在项目根目录启动（会同时启动前后端）
-npm run dev
-
-# 或分别启动
-# 启动后端（在 backend 目录）
-npm run start:dev
-
-# 启动前端（在 frontend 目录）
-npm run dev
-```
+#### 4. 启动项目`
 
 **生产模式**
 
 ```bash
-# 使用启动脚本
-./start.sh
-
-# 或手动启动
+# 启动前端服务
+node .server.js "./frontend/dist"
+# 启动后端服务
 cd backend
-npm run build
 npm run start:prod
-
-cd ../frontend
-npm run build
-npm run preview
 ```
 
 #### 5. 访问应用
 
 - 前端地址: [http://localhost:5173](http://localhost:5173)
 - 后端地址: [http://localhost:3005](http://localhost:3005)
-- 默认管理员账号: `admin@example.com` / `admin123`
+- 默认管理员账号: `admin@jitword.com` / `admin111`
 
 ---
 

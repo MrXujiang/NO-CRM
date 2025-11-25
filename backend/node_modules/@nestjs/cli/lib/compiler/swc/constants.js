@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FOUND_NO_ISSUES_GENERATING_METADATA = exports.FOUND_NO_ISSUES_METADATA_GENERATION_SKIPPED = exports.INITIALIZING_TYPE_CHECKER = exports.TSC_LOG_SUCCESS_PREFIX = exports.TSC_LOG_ERROR_PREFIX = exports.TSC_LOG_PREFIX = exports.SWC_LOG_PREFIX = exports.TSC_COMPILATION_STARTED_MESSAGE = exports.TSC_NO_ERRORS_MESSAGE = void 0;
+const ansis_1 = require("ansis");
+exports.TSC_NO_ERRORS_MESSAGE = 'Found 0 errors. Watching for file changes.';
+exports.TSC_COMPILATION_STARTED_MESSAGE = 'Starting compilation in watch mode...';
+exports.SWC_LOG_PREFIX = (0, ansis_1.cyan)('> ') + ansis_1.bgCyan.bold(' SWC ');
+exports.TSC_LOG_PREFIX = (0, ansis_1.cyan)('> ') + ansis_1.bgCyan.bold(' TSC ');
+exports.TSC_LOG_ERROR_PREFIX = (0, ansis_1.red)('> ') + ansis_1.bgRed.bold(' TSC ');
+exports.TSC_LOG_SUCCESS_PREFIX = (0, ansis_1.green)('> ') + ansis_1.bgGreen.bold(' TSC ');
+exports.INITIALIZING_TYPE_CHECKER = ansis_1.bgCyan.bold(' TSC ') + (0, ansis_1.cyan)(' Initializing type checker...');
+exports.FOUND_NO_ISSUES_METADATA_GENERATION_SKIPPED = exports.TSC_LOG_SUCCESS_PREFIX + (0, ansis_1.green)(' Found 0 issues.');
+exports.FOUND_NO_ISSUES_GENERATING_METADATA = exports.TSC_LOG_SUCCESS_PREFIX + (0, ansis_1.green)(' Found 0 issues. Generating metadata...');

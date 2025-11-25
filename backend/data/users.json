@@ -1,0 +1,13 @@
+[
+  {
+    "id": "b5fcbbf7-75fe-4d60-82cd-ceb576c85ed3",
+    "email": "admin@jitword.com",
+    "password": "$2b$10$VX79wyrmQDmwxA51JayMVObpSTB1kj3xlVjUBVOO6ueQ9piwXTrDW",
+    "name": "系统管理员",
+    "role": "admin",
+    "status": "active",
+    "isAdmin": true,
+    "createdAt": "2025-11-25T06:51:53.596Z",
+    "updatedAt": "2025-11-25T06:51:53.597Z"
+  }
+]

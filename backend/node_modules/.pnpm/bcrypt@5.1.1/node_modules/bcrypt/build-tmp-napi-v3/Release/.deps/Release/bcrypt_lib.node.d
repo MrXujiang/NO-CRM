@@ -1,0 +1,1 @@
+cmd_Release/bcrypt_lib.node := c++ -bundle -undefined dynamic_lookup -Wl,-search_paths_first -mmacosx-version-min=11.0 -arch arm64 -L./Release -stdlib=libc++  -o Release/bcrypt_lib.node Release/obj.target/bcrypt_lib/src/blowfish.o Release/obj.target/bcrypt_lib/src/bcrypt.o Release/obj.target/bcrypt_lib/src/bcrypt_node.o Release/nothing.a 
