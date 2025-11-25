@@ -1,0 +1,1 @@
+import{C as r}from"./index-BQBF81MK.js";const a={getAll(e,t,s){const o={};return e&&(o.page=e),t&&(o.pageSize=t),s&&(o.status=s),r.get("/roles",{params:o})},getOne(e){return r.get(`/roles/${e}`)},create(e){return r.post("/roles",e)},update(e,t){return r.patch(`/roles/${e}`,t)},delete(e){return r.delete(`/roles/${e}`)}};export{a as r};

@@ -1,0 +1,1 @@
+{"version":3,"file":"update-workflow.dto.js","sourceRoot":"","sources":["../../../src/workflows/dto/update-workflow.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,uDAAmD;AACnD,+DAA0D;AAC1D,qDAAqD;AAErD,MAAa,iBAAkB,SAAQ,IAAA,0BAAW,EAAC,uCAAiB,CAAC;IAGnE,MAAM,CAAsC;CAC7C;AAJD,8CAIC;AADC;IAFC,IAAA,wBAAM,EAAC,CAAC,OAAO,EAAE,WAAW,EAAE,UAAU,CAAC,CAAC;IAC1C,IAAA,4BAAU,GAAE;;iDAC+B"}
