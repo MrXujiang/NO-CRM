@@ -41,7 +41,9 @@
 
 ## 🎯 在线体验
 
-🌐 **体验地址**: [http://no-crm.flowmix.cn](http://no-crm.flowmix.cn)
+🌐 **Pro版体验地址**: [http://no-crm.flowmix.cn](http://no-crm.flowmix.cn)
+
+🌐 **Plus版体验地址**: [http://plus.no-crm.flowmix.cn](http://plus.no-crm.flowmix.cn)
 
 ### 测试账号
 
