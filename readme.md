@@ -57,6 +57,7 @@
 1. **协同AI文档**：https://jitword.com
 2. **H5零代码平台**：https://dooring.vip
 3. **AI知识库平台**：https://ai.flowmix.cn
+4. **pxcharts多维表格**：https://pxcharts.turntip.cn
 
 ---
 
