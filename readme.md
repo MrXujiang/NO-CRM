@@ -43,7 +43,7 @@
 
 🌐 **Plus版体验地址**: [http://no-crm.mvtable.com](http://no-crm.mvtable.com)
 
-> 💡 提示：在线体验版本为演示环境，数据会定期重置
+> 💡 提示：在线体验版本为商业演示环境，数据会定期重置
 
 ### 合作产品
 
@@ -397,7 +397,7 @@ docker run -d -p 3005:3005 -p 5173:5173 no-crm
 
 - 作者：[MrXujiang](https://github.com/MrXujiang)
 - 项目地址：[https://github.com/MrXujiang/NO-CRM](https://github.com/MrXujiang/NO-CRM)
-- 在线体验：[http://no-crm.flowmix.cn](http://no-crm.mvtable.com)
+- 在线体验：[http://no-crm.mvtable.com](http://no-crm.mvtable.com)
 
 ---
 
