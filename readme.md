@@ -41,14 +41,7 @@
 
 ## 🎯 在线体验
 
-🌐 **Pro版体验地址**: [http://no-crm.flowmix.cn](http://no-crm.flowmix.cn)
-
-🌐 **Plus版体验地址**: [http://plus.no-crm.flowmix.cn](http://plus.no-crm.flowmix.cn)
-
-### 测试账号
-
-- **用户名**: `test@flowmix.com`
-- **密码**: `test1234`
+🌐 **Plus版体验地址**: [http://no-crm.mvtable.com](http://no-crm.mvtable.com)
 
 > 💡 提示：在线体验版本为演示环境，数据会定期重置
 
@@ -56,7 +49,7 @@
 
 1. **协同AI文档**：https://jitword.com
 2. **H5零代码平台**：https://dooring.vip
-3. **AI知识库平台**：https://ai.flowmix.cn
+3. **AI知识库平台**：https://know.jitword.com
 4. **pxcharts多维表格**：https://pxcharts.turntip.cn
 
 ---
@@ -255,7 +248,7 @@ npm run start:prod
 
 ## 📸 项目截图
 
-> 💡 提示：访问 [在线体验地址](http://no-crm.flowmix.cn) 查看完整功能
+> 💡 提示：访问 [在线体验地址](http://no-crm.mvtable.com) 查看完整功能
 
 ### 数据大屏
 ![数据大屏](docs/screenshots/dashboard.png)
@@ -404,7 +397,7 @@ docker run -d -p 3005:3005 -p 5173:5173 no-crm
 
 - 作者：[MrXujiang](https://github.com/MrXujiang)
 - 项目地址：[https://github.com/MrXujiang/NO-CRM](https://github.com/MrXujiang/NO-CRM)
-- 在线体验：[http://no-crm.flowmix.cn](http://no-crm.flowmix.cn)
+- 在线体验：[http://no-crm.flowmix.cn](http://no-crm.mvtable.com)
 
 ---
 
