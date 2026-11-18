@@ -67,9 +67,9 @@ let AuthService = class AuthService {
             email: registerDto.email,
             password: hashedPassword,
             name: registerDto.name,
-            role: registerDto.role,
+            role: 'sales',
             status: 'active',
-            isAdmin: registerDto.role === 'admin',
+            isAdmin: false,
             createdAt: new Date().toISOString(),
             updatedAt: new Date().toISOString(),
         };
